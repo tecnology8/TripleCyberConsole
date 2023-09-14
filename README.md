@@ -2,8 +2,8 @@
 
 # Valores Aleatorios
 
-a. Generar un listado de números aleatorios. /n
-b. La cantidad de elementos debe ser introducida por el usuario. /n
+a. Generar un listado de números aleatorios. 
+b. La cantidad de elementos debe ser introducida por el usuario.
 c. Por defecto debe ser 5.
 d. La cantidad máxima de números aleatorios debe ser 20.
 e. El valor menor de los números aleatorios debe ser 1.
